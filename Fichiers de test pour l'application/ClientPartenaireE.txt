@@ -1,0 +1,3 @@
+Partenaire E, Younga, Thierry, 25, Boulanger, 35 ;
+Partenaire E, Zoumbare, Cheick, 32, Ingenieur,38 ;
+Partenaire E, Ouedraogo, Moussa, 29, Minier, 33 ;

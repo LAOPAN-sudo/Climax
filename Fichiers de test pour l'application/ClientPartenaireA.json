@@ -1,0 +1,28 @@
+{
+  "clients": [
+    {
+      "nompartenaire": "Partenaire A",
+      "nomclient": "Soubeiga",
+      "prenomclient": "Marie",
+      "age": 32,
+      "profession": "Ingenieur",
+      "salaire": 50
+    },
+    {
+      "nompartenaire": "Partenaire A",
+      "nomclient": "Sia",
+      "prenomclient": "John",
+      "age": 45,
+      "profession": "Avocat",
+      "salaire": 80
+    },
+    {
+      "nompartenaire": "Partenaire A",
+      "nomclient": "Ky",
+      "prenomclient": "Lucie",
+      "age": 26,
+      "profession": "Medecin",
+      "salaire": 40
+    }
+  ]
+}

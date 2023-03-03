@@ -1,0 +1,26 @@
+<clients>
+  <client>
+    <nompartenaire>Partenaire F</nompartenaire>
+    <nomclient>Sereme</nomclient>
+    <prenomclient>Yacouba</prenomclient>
+    <age>32</age>
+    <profession>Minier</profession>
+    <salaire>25</salaire>
+  </client>
+  <client>
+    <nompartenaire>Partenaire F</nompartenaire>
+    <nomclient>Diane</nomclient>
+    <prenomclient>Sayouba</prenomclient>
+    <age>45</age>
+    <profession>Avocat</profession>
+    <salaire>71</salaire>
+  </client>
+  <client>
+    <nompartenaire>Partenaire F</nompartenaire>
+    <nomclient>Keita</nomclient>
+    <prenomclient>Papy</prenomclient>
+    <age>26</age>
+    <profession>Boulanger</profession>
+    <salaire>12</salaire>
+  </client>
+</clients>
