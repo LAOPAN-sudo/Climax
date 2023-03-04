@@ -28,14 +28,14 @@ Base de donnee: Mysql(5.7.31)*
         //sur window
           -Ouvrir le CMD et se rendre a la racine du projet statistiques
 
-          -Taper>: mvnw clean packet
+          -Taper>: mvnw clean package
 
           -Ensuite taper>: java -jar target/statistiques-0.0.1-SNAPSHOT.jar
 
         //sur linux
           -Ouvrir le terminal et se rendre a la racine du projet statistiques
 
-          -Taper>: mvn clean packet
+          -Taper>: mvn clean package
 
           -Ensuite taper>: java -jar target/statistiques-0.0.1-SNAPSHOT.jar
 
